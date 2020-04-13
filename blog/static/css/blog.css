@@ -1,0 +1,34 @@
+.techfont{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.bigbrand{
+    font-size: 1.5em;
+}
+
+.centerstage{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.posttitle{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+.postdate{
+    text-align: center;
+}
+
+.postcontent{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+}
+
+.btn-comment{
+    position: absolute;
+    right:0px;
+}
